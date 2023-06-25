@@ -1,0 +1,25 @@
+{
+  "name": "c7b5f587-f2a1-4bfc-bf5b-1159a103abf6",
+  "displayName": "main.book_a_flight",
+  "parameters": [ {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  }, {
+    "id": "date-period",
+    "entityType": "@sys.date-period"
+  }, {
+    "id": "number",
+    "entityType": "@sys.number"
+  }, {
+    "id": "geo-country",
+    "entityType": "@sys.geo-country"
+  }, {
+    "id": "date-time",
+    "entityType": "@sys.date-time"
+  }, {
+    "id": "ordinal",
+    "entityType": "@sys.ordinal"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 13
+}
